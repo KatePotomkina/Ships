@@ -1,0 +1,7 @@
+C:\Users\Владелец\RiderProjects\Ships\Ships\bin\Debug\Ships.exe
+C:\Users\Владелец\RiderProjects\Ships\Ships\bin\Debug\Ships.pdb
+C:\Users\Владелец\RiderProjects\Ships\Ships\obj\Debug\Ships.csproj.AssemblyReference.cache
+C:\Users\Владелец\RiderProjects\Ships\Ships\obj\Debug\Ships.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владелец\RiderProjects\Ships\Ships\obj\Debug\Ships.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\RiderProjects\Ships\Ships\obj\Debug\Ships.exe
+C:\Users\Владелец\RiderProjects\Ships\Ships\obj\Debug\Ships.pdb
